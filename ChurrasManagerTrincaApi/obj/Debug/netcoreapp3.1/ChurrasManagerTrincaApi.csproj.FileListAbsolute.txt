@@ -1,0 +1,140 @@
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.exe
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.deps.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.dev.json
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csprojAssemblyReference.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfoInputs.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfo.cs
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.RazorTargetAssemblyInfo.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CopyComplete
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.Manifest.cache
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.xml
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\Joao\Desktop\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.genruntimeconfig.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.exe
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.deps.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.dev.json
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csprojAssemblyReference.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfoInputs.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfo.cs
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.RazorTargetAssemblyInfo.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CopyComplete
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.Manifest.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.xml
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.genruntimeconfig.cache
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Joao\Desktop\ChurrasApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.exe
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.deps.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.runtimeconfig.dev.json
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csprojAssemblyReference.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfoInputs.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.AssemblyInfo.cs
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CoreCompileInputs.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.RazorTargetAssemblyInfo.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.csproj.CopyComplete
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.Manifest.cache
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\staticwebassets\ChurrasManagerTrincaApi.StaticWebAssets.xml
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.dll
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.pdb
+C:\Users\thais\OneDrive\Área de Trabalho\ChurrasManagerTrincaApi\ChurrasManagerTrincaApi\obj\Debug\netcoreapp3.1\ChurrasManagerTrincaApi.genruntimeconfig.cache
