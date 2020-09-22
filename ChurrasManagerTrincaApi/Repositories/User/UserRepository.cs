@@ -30,7 +30,6 @@ namespace ChurrasManagerTrincaApi.Repositories
                                                .Where(u => u.Id == id)
                                                .FirstOrDefaultAsync();
 
-
             if (user == null)
                 return null;
 
@@ -54,6 +53,7 @@ namespace ChurrasManagerTrincaApi.Repositories
 
         }
 
+
         public async Task<List<UserGetDto>> GetAllByChurrascoId(int id)
         {
             var users = await _context.Usuarios.Include(chuser => chuser.Churrascos)
@@ -69,6 +69,21 @@ namespace ChurrasManagerTrincaApi.Repositories
             }
 
             return usersGetDto;
+        }
+
+        public async Task<UserGetDto> Authenticate(UserAuthenticateDto authDto)
+        {
+            var user = await _context.Usuarios.Include(chuser => chuser.Churrascos)
+                                               .ThenInclude(c => c.Churrasco)
+                                               .AsNoTracking()
+                                               .Where(u => u.Email == authDto.Email && u.Password == authDto.Password)
+                                               .FirstOrDefaultAsync();
+
+            if (user == null)
+                return null;
+
+            return CreateUserGetDtoModel(user, true);
+
         }
 
         public async Task<User> Add(UserAddDto userAddDto)

@@ -4,11 +4,14 @@ using System.Threading.Tasks;
 using ChurrasManagerTrincaApi.Data;
 using ChurrasManagerTrincaApi.Models;
 using ChurrasManagerTrincaApi.Repositories;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ChurrasManagerTrincaApi.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("v1/users")]
     public class UsersController : ControllerBase
@@ -35,11 +38,12 @@ namespace ChurrasManagerTrincaApi.Controllers
             return await userRepository.GetAllByChurrascoId(id);
         }
 
+        [AllowAnonymous]
         [HttpPost]
         [Route("")]
         public async Task<ActionResult<UserGetDto>> Post([FromServices] IUserRepository userRepository,
-                                                          [FromServices] IUnitOfWork unitOfWork,
-                                                          [FromBody] UserAddDto model)
+                                                                  [FromServices] IUnitOfWork unitOfWork,
+                                                                  [FromBody] UserAddDto model)
         {
             try
             {

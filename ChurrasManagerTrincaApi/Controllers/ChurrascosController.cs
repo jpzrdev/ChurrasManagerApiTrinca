@@ -4,10 +4,12 @@ using System.Threading.Tasks;
 using ChurrasManagerTrincaApi.Data;
 using ChurrasManagerTrincaApi.Models;
 using ChurrasManagerTrincaApi.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ChurrasManagerTrincaApi.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("v1/churrascos")]
     public class ChurrascosController : ControllerBase
